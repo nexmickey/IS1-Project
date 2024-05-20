@@ -1,0 +1,15 @@
+entities\Kategorija.class
+com\mycompany\server\resources\JavaEE8Resource.class
+entities\Snimak3.class
+entities\Korisnik.class
+entities\Mesto.class
+entities\Korisnik2.class
+entities\Korisnik3.class
+entities\Paket.class
+com\mycompany\server\JAXRSConfiguration.class
+entities\Ocena.class
+zahtevi\ZahtevSP.class
+entities\Pretplata.class
+entities\Snimak.class
+resources\ServerR.class
+entities\Gledanje.class
